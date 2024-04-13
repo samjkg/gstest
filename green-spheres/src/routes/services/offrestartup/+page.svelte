@@ -1,0 +1,112 @@
+<div class="relative bg-white">
+    <div class="mx-auto max-w-7xl lg:grid lg:grid-cols-12 lg:gap-x-8 lg:px-8">
+        <div class="px-6 pb-24 pt-10 sm:pb-32 lg:col-span-7 lg:px-0 lg:pb-56 lg:pt-48 xl:col-span-6">
+            <div class="mx-auto max-w-2xl lg:mx-0">
+                <div class="hidden sm:mt-32 sm:flex lg:mt-16">
+                </div>
+                <h1 class="mt-24 text-4xl font-bold tracking-tight text-gray-900 sm:mt-10 sm:text-6xl">Nos services RSE </h1>
+                <p class="mt-6 text-lg leading-8 text-gray-600">Les changements climatiques et les problématiques sociales sont aujourd’hui au cœur des préoccupations des entreprises pour des raisons éthiques et économiques. Une stratégie RSE intégrée permet non seulement de participer à la préservation de l’environnement, mais également d’améliorer sa rentabilité et d’attirer de nouveaux talents.
+
+                </p><br><p class="mt-6 text-lg leading-8 text-gray-600">Que vous soyez une jeune pousse ou une entreprise implantée, nous proposons des solutions  adaptées aux besoins spécifiques de chaque structure. Découvrez nos stratégies personnalisées pour réduire votre empreinte écologique. Renforcez votre impact éthique et social, et inscrivez votre entreprise dans une démarche responsable. </p>
+            </div>
+        </div>
+        <div class="relative lg:col-span-5 lg:-mr-8 xl:absolute xl:inset-0 xl:left-1/2 xl:mr-0">
+            <img class="aspect-[3/2] w-full bg-gray-50 object-cover lg:absolute lg:inset-0 lg:aspect-auto lg:h-full" src="https://images.unsplash.com/photo-1498758536662-35b82cd15e29?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2102&q=80" alt="">
+        </div>
+    </div>
+</div>
+
+<div class="bg-white py-32">
+    <div class="mx-auto max-w-7xl px-6 lg:px-8">
+        <div class="mx-auto flex max-w-2xl flex-col items-end justify-between gap-16 lg:mx-0 lg:max-w-none lg:flex-row">
+            <div class="w-full lg:max-w-lg lg:flex-auto">
+                <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Notre offre Startup</h2>
+                <p class="mt-6 text-xl leading-8 text-gray-600">Le paysage entrepreneurial français peut devenir un modèle en matière de responsabilité environnementale et sociétale. Les petites structures, ont un rôle majeur à jouer au cœur de cette transition. Découvrez une offre adaptée aux besoins et contraintes des Startup.</p>
+                <img src="https://images.unsplash.com/photo-1606857521015-7f9fcf423740?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1344&h=1104&q=80" alt="" class="mt-16 aspect-[6/5] w-full rounded-2xl bg-gray-50 object-cover lg:aspect-auto lg:h-[34.5rem]">
+            </div>
+            <div class="w-full lg:max-w-xl lg:flex-auto">
+                <h3 class="sr-only">Job openings</h3>
+                <ul class="-my-8 divide-y divide-gray-100">
+                    <li class="py-8">
+                        <dl class="relative flex flex-wrap gap-x-3">
+                            <dt class="sr-only">Role</dt>
+                            <dd class="w-full flex-none text-lg font-semibold tracking-tight text-gray-900">
+                                <i class="fa-regular fa-lightbulb"></i>
+                                <a href="#">
+                                    Stratégie RSE
+                                    <span class="absolute inset-0" aria-hidden="true"></span>
+                                </a>
+                            </dd>
+                            <dt class="sr-only">Description</dt>
+                            <dd class="mt-2 w-full flex-none text-base leading-7 text-gray-600">Une stratégie annuelle RSE ambitieuse et adaptée à vos besoins est établie par notre équipe. Celle-ci regroupe les actions qui seront menées au cours de l’année en conformité et les règlementations en vigueur les attentes des parties prenantes</dd>
+                        </dl>
+                    </li>
+
+                    <li class="py-8">
+                        <dl class="relative flex flex-wrap gap-x-3">
+                            <dt class="sr-only">Role</dt>
+                            <dd class="w-full flex-none text-lg font-semibold tracking-tight text-gray-900">
+                                <i class="fa-solid fa-chart-line"></i>
+                                <a href="#">
+                                    Infographie chiffrée
+                                    <span class="absolute inset-0" aria-hidden="true"></span>
+                                </a>
+                            </dd>
+                            <dt class="sr-only">Description</dt>
+                            <dd class="mt-2 w-full flex-none text-base leading-7 text-gray-600">Afin d'appréhender au mieux l'impact de votre entreprise, nous produisons une infographie chiffrée du résultat d’une politique RSE intégrée. Celle-ci vous permet de prendre connaissance de ce sujet mais aussi de répondre aux réticences des parties prenantes.</dd>
+                        </dl>
+                    </li>
+
+                    <li class="py-8">
+                        <dl class="relative flex flex-wrap gap-x-3">
+                            <dt class="sr-only">Role</dt>
+                            <dd class="w-full flex-none text-lg font-semibold tracking-tight text-gray-900">
+                                <i class="fa-solid fa-book-bookmark"></i>
+                                <a href="#">
+                                    Guide des labels
+                                    <span class="absolute inset-0" aria-hidden="true"></span>
+                                </a>
+                            </dd>
+                            <dt class="sr-only">Description</dt>
+                            <dd class="mt-2 w-full flex-none text-base leading-7 text-gray-600">Notre guide sélectionne les labels les plus pertinents pour votre entreprise en vous proposant une analyse synthétisée de chacun.</dd>
+                        </dl>
+                    </li>
+
+                    <li class="py-8">
+                        <dl class="relative flex flex-wrap gap-x-3">
+                            <dt class="sr-only">Role</dt>
+                            <dd class="w-full flex-none text-lg font-semibold tracking-tight text-gray-900">
+                                <i class="fa-solid fa-handshake-angle"></i>
+                                <a href="#">
+                                    Un suivi régulier et attentif
+                                    <span class="absolute inset-0" aria-hidden="true"></span>
+                                </a>
+                            </dd>
+                            <dt class="sr-only">Description</dt>
+                            <dd class="mt-2 w-full flex-none text-base leading-7 text-gray-600">Nous vous proposons des rendez-vous de suivi en présentiel ou distanciel afin de faire le points sur la réalisation de la stratégie, et l’ajuster au besoin.</dd>
+                        </dl>
+                    </li>
+
+                    <li class="py-8">
+                        <dl class="relative flex flex-wrap gap-x-3">
+                            <dt class="sr-only">Role</dt>
+                            <dd class="w-full flex-none text-lg font-semibold tracking-tight text-gray-900">
+                                <i class="fa-solid fa-award"></i>
+                                <a href="#">
+                                    Valorisation de vos engagements
+                                    <span class="absolute inset-0" aria-hidden="true"></span>
+                                </a>
+                            </dd>
+                            <dt class="sr-only">Description</dt>
+                            <dd class="mt-2 w-full flex-none text-base leading-7 text-gray-600">Que vous souhaitiez l’intégrer dans votre rapport d’activité annuel, ou le publier sur votre site web, nos équipe rédigent un rapport engagement attractif qui met en avant l’ensemble de vos actions de l’année.</dd>
+                        </dl>
+                    </li>
+
+
+
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -17,9 +17,8 @@
 
     let navbarLinks = [
         {Name:"Accueil", Link:"/", Active:false, Sub:[
-                {Name:"Notre mission", Link:"/accueil/notremission"},
-                {Name:"Nos services", Link:"/accueil/nosservices"},
-                {Name:"Ils nous font confiance", Link:"/accueil/ilsnousfontconfiance"}
+                {Name:"Notre mission", Link:"/#mission"},
+                {Name:"Nos services", Link:"/#accompagnements"}
             ]},
         {Name:"Nos Services RSE", Link:"/team", Active:false, Sub:[
                 {Name:"Notre offre start-up", Link:"/services/offrestartup"},
