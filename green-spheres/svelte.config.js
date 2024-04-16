@@ -1,13 +1,10 @@
-import adapter from '@sveltejs/adapter-node';
+import vercel from '@sveltejs/adapter-vercel';
 import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
 	kit: {
-		adapter: adapter({
-			// Options can be added here if necessary, for example:
-			out: 'build' // Specifies the output directory for the built server files
-		})
+		adapter: vercel()
 	},
 	preprocess: vitePreprocess()
 };
